@@ -18,16 +18,16 @@ Installation
 
 cd into /recaptcha_solver
 
-```
+``
 pip install .
-```
+``
 
 After installing your project with pip, users can also run your Python
 modules as scripts via the ``-m`` flag.
 
-``` 
+`` 
 python -m recaptcha_solver.solver
-```
+``
 
 
 
