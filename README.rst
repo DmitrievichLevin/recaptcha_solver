@@ -6,28 +6,28 @@
 
 |
 
-================
-recaptcha_solver
-================
+
+# recaptcha_solver
+
 
 
     Python Selenium ReCaptcha Solver
 
-Installation
-============
+## Installation
+
 
 cd into /recaptcha_solver
 
-``
+```sh
 pip install .
-``
+```
 
 After installing your project with pip, users can also run your Python
 modules as scripts via the ``-m`` flag.
 
-`` 
+```sh
 python -m recaptcha_solver.solver
-``
+```
 
 
 
